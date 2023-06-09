@@ -60,3 +60,7 @@ button:hover {
   color: #888888;
   padding: 8px;
 }
+
+#current-location {
+  width: 260px;
+}
